@@ -8,3 +8,5 @@ description: Demonstrate a harmless local workflow used to verify Metagent skill
 When explicitly invoked, summarize the supplied text in exactly three concise bullet points.
 
 Do not access external services or change files.
+
+This public fixture also verifies Metagent's one-way automatic update path.
